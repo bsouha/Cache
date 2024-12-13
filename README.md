@@ -1,4 +1,3 @@
-Here’s a README tailored to your project with its purpose:
 
 # Cache
 
